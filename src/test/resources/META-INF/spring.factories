@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = eu.shapedem.hipster.\
+    config.TestContainersSpringContextCustomizerFactory,eu.shapedem.hipster.\
+    config.SqlTestContainersSpringContextCustomizerFactory
